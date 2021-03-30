@@ -10,11 +10,14 @@ https://makentu2021.netlify.app/
 - Introduction to Flutter \
 [Google Slides](https://docs.google.com/presentation/d/18k3WHwgKrugz34gOXewpVJMahbC2xO5KJxq4WnWlESc/edit?usp=sharing)
 - Entrepreneur Talks
-  - Robert Chen
-  - Victoria Pi
+  - Robert Chen \
+[Slides](https://drive.google.com/file/d/1XTqvKI4DliXbWbNLD40ZQJg-KaRaHfaC/view?usp=sharing)
+  - Victoria Pi \
+[Slides](https://drive.google.com/file/d/1eQ9WD3Wm9N-KYSQnolph2f4Qw3ur3nFn/view?usp=sharing)
   - Chung-Yang Ric Huang \
 [Slides](https://drive.google.com/file/d/136mD6kqb8MTFKWM6qyUgzIvHKYYe-vp4/view?usp=sharing)
-  - 宋倍儀 Bei
+  - 宋倍儀 Bei \
+[Company Link](https://www.gogohome.tw/?c=about)
 - Makerspace Workshop \
 [Rules of Use](https://docs.google.com/presentation/d/1-K-RhpNuykxBRO4_fRCNfvDVXXI1ncMXIvN31cDFkZs/edit?usp=sharing)
 
