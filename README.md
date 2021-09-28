@@ -28,8 +28,51 @@ https://makentu2021.netlify.app/
 <!--Making/Demo/Award Photos-->
 
 <!--Winning Teams Photos-->
-<!--Organizer Awards-->
-<!--Enterprize Awards-->
+
+## Winning teams
+### Organizer Awards 大會獎
+|                  | Team Number | Team Name                | GitHub Link                                       |
+| ---------------- | ----------- | ------------------------ | ------------------------------------------------- |
+| Best Solver      | 8           | 大肆老人退休吃飯糰       | [Team08](https://github.com/MakeNTU/2021_team08_) |
+| Best Maker       | 9           | 隊名待定                 | [Team09](https://github.com/MakeNTU/2021_team09_) |
+| Best Creativity  | 10          | 搞毛啊今年怎麼沒有吃到飽 | [Team10](https://github.com/MakeNTU/2021_team10_) |
+| Best Application | 13          | 我再吃午餐等一下在想     | [Team13](https://github.com/MakeNTU/2021_team13_) |
+
+### Most Popular 網路人氣獎
+今年新設立的網路人氣獎，讓各位參賽者記錄下自己製作的過程，在Facebook發文分享！<br>
+New prize for MakeNTU in this COVID-19 era! Explore these Facebook hashtags!<br>
+[#MakeNTU](https://www.facebook.com/hashtag/MakeNTU)
+[#台大電機創客松](https://www.facebook.com/hashtag/%E5%8F%B0%E5%A4%A7%E9%9B%BB%E6%A9%9F%E5%89%B5%E5%AE%A2%E6%9D%BE)
+
+| Team Number | Team Name                | GitHub Link                                       |
+| ----------- | ------------------------ | ------------------------------------------------- |
+| 10          | 搞毛啊今年怎麼沒有吃到飽 | [Team10](https://github.com/MakeNTU/2021_team10_) |
+
+### Rising Stars Award 新秀獎
+誰說初試啼聲的大一 Maker 們不能有超凡表現？
+
+| Team Number | Team Name     | GitHub Link                                       |
+| ----------- | ------------- | ------------------------------------------------- |
+| 1           | 煞氣a獎金獵人 | [Team01](https://github.com/MakeNTU/2021_team01_) |
+| 5           | 串串幫        | [Team05](https://github.com/MakeNTU/2021_team05_) |
+
+### EECS Awards 電資學院獎
+今年電資學院特別鼓勵以「鐵道安全」為主題創作的同學，設立了電資學院獎。「鐵道安全」是全民關注的議題，對Maker來說，捨我其誰！
+
+| 名次   | Team Number | Team Name                  | GitHub Link                                       |
+| ------ | ----------- | -------------------------- | ------------------------------------------------- |
+| 第一名 | 7           | 吳限期支持明達增設烜炮澡堂 | [Team07](https://github.com/MakeNTU/2021_team07_) |
+| 第二名 | 6           | 𓅓𓅂𓇌𓎡 𓈖𓏏𓅱 (MakeNTU)         | [Team06](https://github.com/MakeNTU/2021_team06_) |
+
+### Enterprise Awards 企業獎
+#### STMicroelectronics 意法半導體
+| 名次   | Team Number | Team Name                  | 開發板             | IDE                      | GitHub Link                                       |
+| ------ | ----------- | -------------------------- | ------------------ | ------------------------ | ------------------------------------------------- |
+| 第一名 | 10          | 搞毛啊今年怎麼沒有吃到飽   |STM32F746-DISCO    | STM32CubeIDE / X-Cube.AI | [Team10](https://github.com/MakeNTU/2021_team10_) |
+| 第二名 | 7           | 吳限期支持明達增設烜炮澡堂 | STM32F103 BluePill | Arduino IDE              | [Team07](https://github.com/MakeNTU/2021_team07_) |
+| 第三名 | 13          | 我再吃午餐等一下在想       | STM32F103 BluePill | Arduino IDE              | [Team13](https://github.com/MakeNTU/2021_team13_) |
+| 第四名 | 11          | 部長的新玩具               | STM32F103 BluePill | Arduino IDE              | [Team11](https://github.com/MakeNTU/2021_team11_) |
+
 
 ## All team repositories
 | Team Number | Team Name | GitHub Link | Description |
